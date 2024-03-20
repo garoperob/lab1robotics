@@ -729,9 +729,9 @@ ENDMODULE
 
 # Video de comprobación de funcionamiento
 
-![](https://youtu.be/V4ZzZhOP_X8)
+[![](https://markdown-videos.deta.dev/youtube/V4ZzZhOP_X8)](https://youtu.be/V4ZzZhOP_X8)
 
-![](https://youtu.be/qPzvd4asezQ)
+[![](https://markdown-videos.deta.dev/youtube/qPzvd4asezQ)](https://youtu.be/qPzvd4asezQ)
 
 
 
