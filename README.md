@@ -53,7 +53,7 @@ Partiendo de las medidas del flanche encontradas en el manual del brazo robótic
 
 # Código de RAPID
 
-
+Dentro del repositorio se encuentra un archivo con ambos códigos de RAPID, tanto plano inclinado como llano. Sin embargo, la diferencia entre estos es únicamente es la posición de los targets.
 
 # Video de comprobación de funcionamiento
 
